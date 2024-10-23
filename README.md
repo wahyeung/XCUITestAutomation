@@ -12,3 +12,8 @@ SwiftUITodo is an example to-do list application using [SwiftUI](https://develop
 ## License
 
 SwiftUITodo is under MIT license. See the [LICENSE](LICENSE) file for more info.
+
+
+#XCUITest for SwiftUITodo
+This project is based on the original SwiftUITodo application, which is an example to-do list application using SwiftUI first introduced in the WWDC19 keynote. The main focus of this modified version is to showcase XCUITest automation for UI testing.
+
